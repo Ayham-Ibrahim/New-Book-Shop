@@ -1,5 +1,5 @@
 <?php
-$connect = new PDO("mysql:host=localhost;dbname=book_shop;charset=utf8", "root", "");
+$connect = new PDO("mysql:host=localhost;dbname=new_book_shop;charset=utf8", "root", "");
 function SQLQuery($q)
 {
     global $connect;

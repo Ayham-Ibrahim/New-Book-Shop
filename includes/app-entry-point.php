@@ -120,7 +120,7 @@ function HomeFooter()
           <!-- Copyright -->
           <div class="text-center p-3 bg-black" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2023 Copyright:
-            <p class="text-white">Souher Zedan - Aya Abedo - Mariam Yaghi</p>
+            <p class="text-white">Ayham Ibrahim</p>
           </div>
           <!-- Copyright -->
   </footer>
